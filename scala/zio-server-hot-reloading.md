@@ -1,3 +1,7 @@
+## Zio server hot reloading
+
+UPDATE: see [https://github.com/spray/sbt-revolver](sbt-revolver)
+
 I was wondering about hot-reloading the local zio server
 and ended up with the following setup, which seems to be working well:
 
