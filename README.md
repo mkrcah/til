@@ -1,3 +1,8 @@
+Collection of small write-ups I learn day to day, inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and 
+the practice of continuous learning, and daily mundane habits. 
+
+--- 
+
 ## Microservices
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
