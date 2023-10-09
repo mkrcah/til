@@ -1,3 +1,6 @@
+## Microservices
+- [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
+
 ## Scala
 
 - [Filter and mapValues within one function](scala/filter-and-map-with-collect.md)
