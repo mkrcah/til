@@ -6,6 +6,9 @@ the practice of continuous learning, and daily mundane habits.
 ## Microservices
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
+## Clojure
+- [Setting up Intellij for Clojure](clojure/setting-up-intellij-for-clojure.md)
+
 ## Scala
 
 - [Filter and mapValues within one function](scala/filter-and-map-with-collect.md)
@@ -18,5 +21,6 @@ the practice of continuous learning, and daily mundane habits.
 
 ## Kafka
 
+- [Fundamental Kafka concepts](kafka/fundamental-kafka-concepts.md)
 - [Kafka messaging issues on Docker might relate to Zookeeper](kafka/kafka-messaging-issues-on-docker-might-relate-to-zookeeper.md)
 - [Producing and consuming Kafka messages via console](kafka/producing-and-consuming-kafka-messages-via-console.md)
