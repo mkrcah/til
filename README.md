@@ -7,6 +7,7 @@ the practice of continuous learning, and daily mundane habits.
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
 ## Clojure
+- [Naming conventions for predicates and conversions](clojure/naming-conventions-for-predicates-and-conversions.md)
 - [Setting up Intellij for Clojure](clojure/setting-up-intellij-for-clojure.md)
 
 ## Scala
