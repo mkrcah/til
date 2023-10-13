@@ -3,6 +3,9 @@ the practice of continuous learning, and daily mundane habits.
 
 --- 
 
+## System design
+- [Change is not a thing, it's either growth or breakage](system-design/change-is-not-a-thing-its-either-growth-or-breakage.md)
+
 ## Microservices
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
