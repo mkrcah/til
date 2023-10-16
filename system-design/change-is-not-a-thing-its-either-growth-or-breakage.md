@@ -17,5 +17,5 @@ Example:
 - Adding a required function parameter is breakage
 - Adding another function is growth
 
-Rich advocates that breaking changes are **broken**. 
-We should avoid **breakage** by turning it into **accretion**, where old and new can co-exist (Java, Unix, Git, Maven). 
+Rich advocates that breaking changes are **broken**, particularly so in the context of 
+clients that are not in our control. We should avoid **breakage** by turning it into **accretion**, where old and new can co-exist (Java, Unix, Git, Maven). 
