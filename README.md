@@ -10,6 +10,8 @@ the practice of continuous learning, and daily mundane habits.
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
 ## Clojure
+- [Difference between vectors and lists](clojure/difference-between-vectors-and-lists.md)
+- [Defining local variables with let](clojure/defining-local-vars-with-let.md)
 - [Removing nesting of seq transformations with thread-last macro](clojure/removing-nesting-of-seq-transformations-with-thread-last-macro.md)
 - [Naming conventions for predicates and conversions](clojure/naming-conventions-for-predicates-and-conversions.md)
 - [Setting up Intellij for Clojure](clojure/setting-up-intellij-for-clojure.md)
