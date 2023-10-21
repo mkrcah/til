@@ -11,6 +11,7 @@ the practice of continuous learning, and daily mundane habits.
 
 ## Clojure
 - [Difference between vectors and lists](clojure/difference-between-vectors-and-lists.md)
+- [Local unit testing with with-test macro](clojure/local-unit-testing-wit-with-test-macro.md)
 - [Defining local variables with let](clojure/defining-local-vars-with-let.md)
 - [Removing nesting of seq transformations with thread-last macro](clojure/removing-nesting-of-seq-transformations-with-thread-last-macro.md)
 - [Naming conventions for predicates and conversions](clojure/naming-conventions-for-predicates-and-conversions.md)
