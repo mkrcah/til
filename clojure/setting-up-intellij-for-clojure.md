@@ -8,3 +8,5 @@ how to set it up for Clojure development. Here are some tips:
 - REPL might be inactive at first. REPL is attached to `project.clj` project file, so one needs to initialize the REPL from there, see [here](https://cursive-ide.com/userguide/first-repl.html)
   - To make a new dependency work in REPL, you need to restart the REPL.     
 - Editing might be surprising, the paredit is turned on by default. Check [the structural editing doc](https://cursive-ide.com/userguide/paredit.html). 
+
+Update: Clojure Tools seems to be the preferred way now instead of Leiningen (see [here](https://betweentwoparens.com/blog/what-are-the-clojure-tools/) and [here](https://corfield.org/blog/2018/04/18/all-the-paths/))
