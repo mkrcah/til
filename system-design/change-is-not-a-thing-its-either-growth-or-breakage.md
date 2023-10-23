@@ -18,4 +18,8 @@ Example:
 - Adding another function is growth
 
 Rich advocates that breaking changes are **broken**, particularly so in the context of 
-clients that are not in our control. We should avoid **breakage** by turning it into **accretion**, where old and new can co-exist (Java, Unix, Git, Maven). 
+clients that are not in our control. We should avoid **breakage** by turning it into **accretion**, where old and new can co-exist (Java, Unix, Git, Maven).
+
+It seems to me the concept of growth/breakage can be applied to microservices as well.
+Assuming a microservice grows and doesn't break, we can safely deploy the latest version
+in isolation without considering other microservices. 
