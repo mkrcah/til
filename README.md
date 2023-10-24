@@ -4,6 +4,7 @@ the practice of continuous learning, and daily mundane habits.
 --- 
 
 ## System design
+- [Avoiding system complexity with flow-oriented systems](system-design/avoiding-system-complexity-with-flow-oriented-systems.md)
 - [Change is not a thing, it's either growth or breakage](system-design/change-is-not-a-thing-its-either-growth-or-breakage.md)
 
 ## Microservices
