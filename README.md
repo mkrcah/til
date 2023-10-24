@@ -28,6 +28,7 @@ the practice of continuous learning, and daily mundane habits.
 ## Git
 
 - [Connecting to two GitHub accounts](git/connecting-to-two-github-accounts.md)
+- [Translating git tag to git commit hash](git/git-tag-to-commit-hash.md)
 
 ## Kafka
 
