@@ -11,6 +11,7 @@ the practice of continuous learning, and daily mundane habits.
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
 ## Clojure
+- [Inspecting long seq of maps with Portal table viewer](clojure/inspecting-long-seq-of-maps-with-portal-table-viewer.md)
 - [Sample data and invocations with rich comments](clojure/sample-data-and-invocations-with-rich-comments.md)
 - [Difference between vectors and lists](clojure/difference-between-vectors-and-lists.md)
 - [Local unit testing with with-test macro](clojure/local-unit-testing-wit-with-test-macro.md)
