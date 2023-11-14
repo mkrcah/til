@@ -11,6 +11,7 @@ the practice of continuous learning, and daily mundane habits.
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
 ## Clojure
+- [Keywords starting with a digit are discouraged](clojure/keywords_starting_with_a_digit_are_discouraged.md)
 - [Inspecting long seq of maps with Portal table viewer](clojure/inspecting-long-seq-of-maps-with-portal-table-viewer.md)
 - [Sample data and invocations with rich comments](clojure/sample-data-and-invocations-with-rich-comments.md)
 - [Difference between vectors and lists](clojure/difference-between-vectors-and-lists.md)

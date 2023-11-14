@@ -1,5 +1,8 @@
 ## Setting up Intellij for Clojure
 
+Update: I've found a good intro by [Andrey Fadeev](https://www.youtube.com/watch?v=51FDOCrvbVg)
+Update: Clojure Tools seems to be the preferred way now instead of Leiningen (see [here](https://betweentwoparens.com/blog/what-are-the-clojure-tools/) and [here](https://corfield.org/blog/2018/04/18/all-the-paths/))
+
 Intellij IDEA has been my go-to IDE and I have been wondering 
 how to set it up for Clojure development. Here are some tips:
 
@@ -9,5 +12,5 @@ how to set it up for Clojure development. Here are some tips:
   - To make a new dependency work in REPL, you need to restart the REPL.     
 - Editing might be surprising, the paredit is turned on by default. Check [the structural editing doc](https://cursive-ide.com/userguide/paredit.html).
 - Babashka scripts might not be recognized by Intellij, add [Babashka module](https://cursive-ide.com/userguide/babashka.html) to fix that
+- For REPL, you can setup a keymap to run all tests 
 
-Update: Clojure Tools seems to be the preferred way now instead of Leiningen (see [here](https://betweentwoparens.com/blog/what-are-the-clojure-tools/) and [here](https://corfield.org/blog/2018/04/18/all-the-paths/))

@@ -21,3 +21,5 @@ Example:
 - Similarly, there’s a test on the producer part, which ensures the server produces the example response given the example request.
 
 Read more at [Building Microservices](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358) - chapter Consumer-Driven Tests to the Rescue
+
+UPDATE: There are SaaS solutions for contract testing, for example, [Pact](https://pact.io/)
