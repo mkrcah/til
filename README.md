@@ -4,8 +4,15 @@ the practice of continuous learning, and daily mundane habits.
 --- 
 
 ## System design
+- [Decompose with different types of pure functions](system-design/decompose-with-different-types-of-pure-functions.md)
+- [Design with intention-revealing interfaces (DDD)](system-design/intention-revealing-interfaces-ddd.md)
 - [Avoiding system complexity with flow-oriented systems](system-design/avoiding-system-complexity-with-flow-oriented-systems.md)
 - [Change is not a thing, it's either growth or breakage](system-design/change-is-not-a-thing-its-either-growth-or-breakage.md)
+
+## Quotes
+- [Quotes on Clojure and functional programming (ongoing)](quotes/clojure-and-fp.md)
+- [Quotes by Rich Hickey (ongoing)](quotes/rich-hickey.md)
+- [Quotes - general (ongoing)](quotes/general.md)
 
 ## Microservices
 - [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
