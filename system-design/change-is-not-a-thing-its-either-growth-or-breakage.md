@@ -23,3 +23,6 @@ clients that are not in our control. We should avoid **breakage** by turning it 
 It seems to me the concept of growth/breakage can be applied to microservices as well.
 Assuming a microservice grows and doesn't break, we can safely deploy the latest version
 in isolation without considering other microservices. 
+
+Some examples of breakage:
+- Python3 datetime https://news.ycombinator.com/item?id=38333116

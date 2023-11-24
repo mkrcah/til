@@ -13,12 +13,15 @@ the practice of continuous learning, and daily mundane habits.
 - [Quotes by Rich Hickey (ongoing)](quotes/rich-hickey.md)
 - [Quotes - general (ongoing)](quotes/general.md)
 
-## Microservices
-- [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
 ## DDD
+- [Tips on designing aggregates](/ddd/tips-on-designing-aggregates.md)
+- [Focus on core domain by possibly carving out supportive and generic subdomains](/ddd/carving-out-core-domain.md)
 - [Three guiding principles of DDD](/ddd/ddd-three-guiding-principles.md)
 - [Design with intention-revealing interfaces (DDD)](ddd/intention-revealing-interfaces-ddd.md)
+
+## Microservices
+- [Testing integrations with contract testing, as a trade-off between unit tests and integration tests](microservices/contract-testing.md)
 
 ## Clojure
 - [Keywords starting with a digit are discouraged](clojure/keywords_starting_with_a_digit_are_discouraged.md)

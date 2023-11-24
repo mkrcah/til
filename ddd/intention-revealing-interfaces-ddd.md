@@ -1,6 +1,6 @@
 ## Design with intention-revealing interfaces (DDD)
 
-Evans in DDD:
+Eric Evans in DDD book:
 
 > If a developer must consider the implementation of a component in order to use it, the value of encapsulation is lost.  If someone other than the original developer must infer the purpose of an object or operation based on its implementation, that new developer may infer a purpose that the operation or class fulfills only by chance.  If that was not the intent, the code may work for the moment, but the conceptual basis of the design will have been corrupted, and the two developers will be working at cross-purposes.
 
